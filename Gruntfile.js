@@ -60,7 +60,7 @@ module.exports = function(grunt) {
             },
             dist: [
                 'app/docs/html/**/*.html',
-                'app/docs/inclode/**/*.html'
+                'app/docs/include/**/*.html'
             ]
         },
 
